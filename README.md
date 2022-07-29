@@ -1,1 +1,1 @@
-# sentiment-analysis-indian-stock-market
+# Sentiment Analysis of the Indian Financial Market
