@@ -3,7 +3,7 @@
 Sentiment Analysis is a natural language processing (NLP) technique which is used to interpret the emotional tonality of a text. 
 
 #### Obejctive: 
-The purpose of the work was to analyze how a negative or positive statement could influence the position of a company in the financial market. 
+The purpose of the work was to analyze how a negative or positive statement could influence the position of a company in Indian financial markets. 
 #### Dataset:
 A dataset of around 25000 tweets was scrapped using the Tweepy library following by data cleaning using Regex. 
 #### Pre-processing:
