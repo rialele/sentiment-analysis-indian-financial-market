@@ -8,4 +8,3 @@ The purpose of the work was to analyze how a negative or positive statement coul
 #### Dataset:
 A dataset of around 25,000 tweets was scrapped using the Tweepy library.
 
-The code.ipynb file contains the entire code along with comments.
