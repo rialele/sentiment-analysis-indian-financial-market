@@ -1,4 +1,4 @@
-# Sentiment Analysis of Indian Financial Markets
+# Sentiment Analysis In Indian Financial Markets
 
 Sentiment Analysis is a natural language processing (NLP) technique which is used to interpret the emotional tonality of a text.
 
