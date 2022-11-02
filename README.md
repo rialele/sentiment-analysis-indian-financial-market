@@ -15,4 +15,4 @@ Different metrics such as accuracy, recall, precision, f1 have been used to dete
 A unique twitter dataset was created that is based solely on Indian financial markets and can be further used for financial research and analysis.
 
 #### Documentation:
-The code.ipynb file contains the entire code along with comments, for viewers to understand each step.
+The code.ipynb file contains the entire code along with comments.
